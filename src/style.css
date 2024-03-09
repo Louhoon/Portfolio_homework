@@ -87,7 +87,7 @@ p {
   text-decoration: underline;
 }
 
-.yoga-link {
+.projects-link {
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
@@ -97,7 +97,7 @@ p {
   color: white;
 }
 
-.yoga-link:hover {
+.projects-link:hover {
   color: #0a58ca;
 }
 
